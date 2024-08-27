@@ -1,5 +1,4 @@
 # Customer Churn Prediction for SyriaTel
-#Author : Martin Kabare
 
 ## Table of Contents
 1. [Overview](#overview)
